@@ -1,0 +1,9 @@
+body {
+	color: #FF3399;
+}
+
+ul{
+	color: blue;
+}
+
+body:hover {color: green} ;
